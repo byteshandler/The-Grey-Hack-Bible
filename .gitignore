@@ -1,0 +1,19 @@
+# Obsidian
+.obsidian/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# Logs
+*.log
