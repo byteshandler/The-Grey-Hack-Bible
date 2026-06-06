@@ -1,1 +1,1 @@
-<img src= assets/point.jpg alt="could-be-you">
+<img src= "assets/point.jpg" alt="could-be-you">
