@@ -1,4 +1,5 @@
-# The Grey Hack Bible
+The Grey Hack Bible
+Created by **457R0**.
 
 Welcome.
 
@@ -12,12 +13,6 @@ Most guides focus on steps.
 
 This Bible focuses on understanding.
 
----
-## About The Author
-
-I'm **bytehandler**.
-
-A reverse engineer, hacker, and professional over-thinker.
 
 The reason this Bible exists is simple: I got tired of scattered notes, answering the same questions in Discord, contradictory advice from players who barely understand the systems they're talking about, and guides written by people who confuse running a tool with understanding what it actually does.
 
@@ -41,14 +36,7 @@ The best players learn systems.
 
 **The difference matters.**
 
-Anyone can follow instructions, copy a script, or run a tool somebody else wrote. That's easy. Understanding is what allows you to adapt when things change, solve problems nobody has documented yet, and build solutions instead of borrowing them from someone else. 
-
-Grey Hack doesn't need more walkthroughs, more command lists, or more people repeating information they barely understand themselves. It needs documentation that explains the underlying systems and teaches people how to think, not just what to type in the terminal. 
-
-This Bible is my attempt to build the resource that should have existed in the first place. If you're satisfied with knowing that something works, you'll probably find faster guides elsewhere. If you want to understand why it works, welcome.
-
----
-## How To Use This Bible
+Anyone can follow instructions, copy a script, or run a tool somebody else wrote. That's easy. **Understanding** is what allows you to adapt when things change, solve problems nobody has documented yet, and **build solutions instead of borrowing them from someone else**. 
 
 There is no single correct way to use this Bible.
 
@@ -70,28 +58,12 @@ The best way to use this Bible is to read actively:
 Passive reading gives you familiarity.
 
 Active practice gives you the skillz.
-
----
-## Start Here
-
 New to Grey Hack?
 
 Read these first:
-- [[01_start_here/01_introduction]]
-- [[01_start_here/02_what_is_grey_hack]]
-- [[01_start_here/03_what_is_a_hacker]]
-- [[01_start_here/04_the_hacker_mindset]]
-- [[01_start_here/05_how_to_use_this_bible]]
-- [[01_start_here/06_common_beginner_mistakes]]
-- [[01_start_here/07_your_journey_ahead]]
-
----
-## Core Principle
-
-The core principle of this Bible is simple:
-
-> Learn the system, then use the tool.
-
-Tools are useful, but tools without understanding create dependency. If all you know is which command to run, you are useless the moment the command fails, the output changes, or the situation does not match the tutorial.
-
-With The Grey Hack Bible, you'll move beyond relying on Viper and other open-source tools. You'll understand the systems behind the game, build your own tools, and develop the knowledge needed to solve problems on your own.
+- Introduction
+- What is Grey Hack?
+- What's a Hacker?
+- Hacker's Mindset
+- Common Rook Mistakes
+- The Journey Ahead
